@@ -1,6 +1,6 @@
 # Toxygen-Chat: Python-based Tox Client (custom version)
 
-This is a custom version of the Toxygen Messenger App. It contains a modified source of Toxygen (based on the original project https://github.com/toxygen-project/toxygen) and a built version of it.
+This is a custom version of the Toxygen Messenger App including a German Language Pack. It contains a modified source of Toxygen (based on the original project https://github.com/toxygen-project/toxygen) and a built version of it.
 There is also a Plugin directory for this specific client.
 
 ## Running the Source version
